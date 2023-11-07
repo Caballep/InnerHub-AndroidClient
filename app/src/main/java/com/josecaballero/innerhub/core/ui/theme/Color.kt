@@ -1,4 +1,4 @@
-package com.josecaballero.innerhub.ui.theme
+package com.josecaballero.innerhub.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
